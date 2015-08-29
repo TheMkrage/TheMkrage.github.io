@@ -23,8 +23,9 @@ Team A and Team B had finally won a tournament together (we had failed trying la
 [Here is the competition link if you would like to view the results.](http://www.robotevents.com/robot-competitions/vex-robotics-competition/re-vrc-15-2938.html)
  
 #The Results
-| Match  | Red 1 | Red 2 | Blue 1 | Blue 2 | Red Score | Blue Score | 
-|:-----:|:------:|:-----:|:------:|:------:|:---------:|:----------:|
-| 3309A | 4800B | 1879   | 2822   | 26        | 57         |
-| 3309A | 4800B | 1879   | 2822   | 26        | 57         |
-| 3309A | 4800B | 1879   | 2822   | 26        | 57         |
+
+Match  | Red 1 | Red 2 | Blue 1 | Blue 2 | Red Score | Blue Score 
+:-----:|:------:|:-----:|:------:|:------:|:---------:|:----------:
+3309A | 4800B | 1879   | 2822   | 26        | 57         
+3309A | 4800B | 1879   | 2822   | 26        | 57         
+3309A | 4800B | 1879   | 2822   | 26        | 57         
