@@ -25,7 +25,19 @@ Team A and Team B had finally won a tournament together (we had failed trying la
 #The Results
 
 Match  | Red 1 | Red 2 | Blue 1 | Blue 2 | Red Score | Blue Score 
+
 :-----:|:------:|:-----:|:------:|:------:|:---------:|:----------:
 3309A | 4800B | 1879   | 2822   | 26        | 57         
 3309A | 4800B | 1879   | 2822   | 26        | 57         
-3309A | 4800B | 1879   | 2822   | 26        | 57         
+3309A | 4800B | 1879   | 2822   | 26        | 57     
+
+
+Auto  | Method Name
+------------- | -------------
+12 Point Red  | startRed12();
+12 Point Blue  | startBlue12();
+8 Point Red  | startRed8();
+8 Point Blue | startBlue8();
+Small Pole | startSmallPoleAuto();
+Red Strafe | startRedStrafe();
+Blue Strafe | startBlueStrafe();s
