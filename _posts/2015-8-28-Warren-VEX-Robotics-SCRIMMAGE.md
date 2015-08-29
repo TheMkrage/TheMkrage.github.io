@@ -28,3 +28,5 @@ During the first match of finals, we score 102 points while 4800B and 1034A scor
 Team A and Team B had finally won a tournament together (we had failed trying last year).  On top of this, Team A won the Design Award from their notebook.  It was a pretty good day for the Friarbots, but we were not happy with our robots performance in qualifications.  We currently have much room to improve before our next competition.
 
 [Here is the competition link if you would like to view the results.](http://www.robotevents.com/robot-competitions/vex-robotics-competition/re-vrc-15-2938.html)
+
+---
