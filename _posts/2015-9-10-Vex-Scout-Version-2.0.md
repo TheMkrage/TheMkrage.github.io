@@ -4,7 +4,7 @@ title: Vex Scout 2.0
 ---
 Today, I released version 2.0 of [Vex Scout](https://itunes.apple.com/us/app/vex-scout/id1012279776?mt=8).  For those of you who do not know, Vex Scout is an iOS application that I created to simplify Vex Robotics scouting.  It fetches the data from robotevents, and organizes it in a more simplified manner. It also calculates in-depth statistics for each team to give users a more detailed idea of what teams they will be competing against.
 
-![My helpful screenshot]({{ krager.org }}/images/mainMenu.png)
+![My helpful screenshot]({{ krager.org }}/images/ICON.png)
 
 ### Changes
 In Version 2.0 of Vex Scout, I redid the entire User Interface. Before, the User Interface was simply text and buttons.  This was mainly because we rushed it onto the App Store in early June of 2015.  Since then, I have been working to program a User Interface that not only looks nicer, but also makes the app easier to navigate.
