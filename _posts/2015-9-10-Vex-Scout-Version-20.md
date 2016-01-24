@@ -18,7 +18,7 @@ OPR, DPR, and CCWM are all now supported and are shown on the newly added &#34Gr
 
 Users can now favorite teams andr competitions.  This allows for the creation of a pick list for elimination selections.
 
-&#34More&#34 and &#34Settings&#34 have now been added.  &#34Settings&#34 allows you to change what team you are on (used for &#34My Team&#34) and to change what season you are viewing.  You can also change the season on any team’s profile page.  The &#34More&#34 page contains miscellaneous links to helpful information.
+&#34More&#34 and &#34Settings&#34 have now been added.  &#34Settings&#34 allows you to change what team you are on (used for &#34My Team&#34) and to change what season you are viewing.  You can also change the season on any teamâ€™s profile page.  The &#34More&#34 page contains miscellaneous links to helpful information.
 Inside of &#34More&#34, there is also a match predictor. From OPR, DPR, and CCWM, the app gives a percentage that a certain alliance will win.
 
 [Download Vex Scout today!](https://itunes.apple.com/us/app/vex-scout/id1012279776?mt=8)
