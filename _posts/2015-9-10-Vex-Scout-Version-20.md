@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Vex Scout 2
+title: Vex Scout 2.0
 ---
 Today, I released version 2.0 of [Vex Scout](https://itunes.apple.com/us/app/vex-scout/id1012279776?mt=8).  For those of you who do not know, Vex Scout is an iOS application that I created to simplify Vex Robotics scouting.  It fetches the data from robotevents, and organizes it in a more simplified manner. It also calculates in-depth statistics for each team to give users a more detailed idea of what teams they will be competing against.
+
+![My helpful screenshot](krager.org/images/ICON.png)
 
 ### Changes
 In Version 2.0 of Vex Scout, I redid the entire User Interface. Before, the User Interface was simply text and buttons.  This was mainly because we rushed it onto the App Store in early June of 2015.  Since then, I have been working to program a User Interface that not only looks nicer, but also makes the app easier to navigate.
@@ -16,7 +18,7 @@ Robot Skills and Programming Skills can now be seen on a teams profile.  This gi
 
 OPR, DPR, and CCWM are all now supported and are shown on the newly added &#34Graphs&#34 pages.  This is another tab added when viewing a teams profile.
 
-Users can now favorite teams andr competitions.  This allows for the creation of a pick list for elimination selections.
+Users can now favorite teams and competitions.  This allows for the creation of a pick list for elimination selections.
 
 &#34More&#34 and &#34Settings&#34 have now been added.  &#34Settings&#34 allows you to change what team you are on (used for &#34My Team&#34) and to change what season you are viewing.  You can also change the season on any team’s profile page.  The &#34More&#34 page contains miscellaneous links to helpful information.
 Inside of &#34More&#34, there is also a match predictor. From OPR, DPR, and CCWM, the app gives a percentage that a certain alliance will win.
