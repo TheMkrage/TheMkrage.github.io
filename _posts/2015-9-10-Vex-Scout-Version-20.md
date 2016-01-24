@@ -7,7 +7,7 @@ Today, I released version 2.0 of [Vex Scout](https://itunes.apple.com/us/app/vex
 ### Changes
 In Version 2.0 of Vex Scout, I redid the entire User Interface. Before, the User Interface was simply text and buttons.  This was mainly because we rushed it onto the App Store in early June of 2015.  Since then, I have been working to program a User Interface that not only looks nicer, but also makes the app easier to navigate.
 
-The View that probably is the most different is the main menu. The main menu now uses custom card views that each contains different information.  From the card views on the main menu, you can now see basic stats about &#34My Team&#34, some of your favorited/bookmarked teams, and the top robot skills and programming skills.  The main menu also now contains an all-in-one search bar. You can now search through teams and competitions from the main menu. &#34Settings&#34 and &#34More&#34 buttons are also placed on the top navigation bar.
+The View that probably is the most different is the main menu. The main menu now uses custom card views that each contains different information.  From the card views on the main menu, you can now see basic stats about &#34My Team&#34, some of your favorited or bookmarked teams, and the top robot skills and programming skills.  The main menu also now contains an all-in-one search bar. You can now search through teams and competitions from the main menu. &#34Settings&#34 and &#34More&#34 buttons are also placed on the top navigation bar.
 
 The user interface on most of the other pages has also been redone. They are now more than just text. Take a look for yourself:
 
