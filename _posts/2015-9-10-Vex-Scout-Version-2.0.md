@@ -14,9 +14,9 @@ The View that probably is the most different is the main menu. The main menu now
 The user interface on most of the other pages has also been redone. They are now more than just text. Take a look for yourself:
 
 ### New Features
-Robot Skills and Programming Skills can now be seen on a team's profile.  This gives users a more accurate idea of how fast a team can score, or how well they are at programming.
+Robot Skills and Programming Skills can now be seen on a team"'"s profile.  This gives users a more accurate idea of how fast a team can score, or how well they are at programming.
 
-OPR, DPR, and CCWM are all now supported and are shown on the newly added "Graphs" pages.  This is another tab added when viewing a team's profile.
+OPR, DPR, and CCWM are all now supported and are shown on the newly added "Graphs" pages.  This is another tab added when viewing a team"'"s profile.
 
 Users can now favorite teams and/or competitions.  This allows for the creation of a pick list for elimination selections.
 
