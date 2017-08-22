@@ -1,2 +1,4 @@
 images/.picasa.ini
 redux/
+.DS_Store
+images/.DS_Store
