@@ -11,6 +11,11 @@
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
+
+	.global {
+		background: #282A36;
+	}
+
 	body,input,textarea,select
 	{
 		font-family: 'Helvetica';
@@ -130,7 +135,7 @@
 
 	p, ul, ol, dl, table
 	{
-		margin-bottom: 2em;
+		margin-bottom: 1.5em;
 	}
 
 	/* Form */
@@ -340,6 +345,7 @@
 			-webkit-appearance: none;
 			position: relative;
 			display: inline-block;
+			background-color: transparent;
 			color: #68A1F0 !important;
 			text-decoration: none;
 			font-weight: 700;
@@ -363,29 +369,6 @@
 			{
 				top: 1px;
 			}
-
-			input[type="button"].alt,
-			input[type="submit"].alt,
-			input[type="reset"].alt,
-			.button.alt
-			{
-				box-shadow: inset 0px 0px 0px 1px #242424, inset 0px 2px 1px 0px rgba(255,255,255,0.2);
-			}
-
-				input[type="button"].alt:hover,
-				input[type="submit"].alt:hover,
-				input[type="reset"].alt:hover,
-				.button.alt:hover
-				{
-					color: #fff !important;
-				}
-
-				input[type="button"].alt:active,
-				input[type="submit"].alt:active,
-				input[type="reset"].alt:active,
-				.button.alt:active
-				{
-				}
 
 	/* List */
 
@@ -489,6 +472,7 @@
 
 			ul.actions
 			{
+				-webkit-appearance: none;
 			}
 
 				ul.actions li
